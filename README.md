@@ -881,10 +881,4 @@ Protected Variable: 2
 
 ---
 
-### End
 
-<img src="/assets/images/save.png" width="600" height="200">
-
----
-
-###
