@@ -868,7 +868,7 @@ int main()
 >  Private Variable: 1 \
 Protected Variable: 2
 
-
+### Friend functions are only in C++ not in python or java
 ---
 
 ### 13: Access Modifiers
@@ -880,5 +880,4 @@ Protected Variable: 2
 
 
 ---
-
 
